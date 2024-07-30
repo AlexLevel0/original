@@ -26,7 +26,15 @@ margin: 5px;
 }
 
 h2{
+    background-color: #fff6d1
     text-align: center;
 }
 
+h3 {
+font-size: 14px;
+}
 
+p{
+
+    font-size: 10px;
+}
